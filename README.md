@@ -1,2 +1,2 @@
 # gracekitonyi-bit.github.io
-Grace Kitonyi | Applied Mathematics ⚡ Data Science 📊 Cybersecurity 🔐 | Personal Portfolio Website
+Applied Mathematics ⚡ Data Science 📊 Cybersecurity 🔐 Mathematical Modeling 🧮 | Exploring AI-driven solutions for health & security | Personal Portfolio Website
